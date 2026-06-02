@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/siddharthsingh18/siddharthsingh18/main/profile.jpg" alt="Siddharth Singh" width="200" style="border-radius: 50%; border: 3px solid #9F7AEA; margin: 20px 0;">
+
 # Siddharth Singh  
 ### AI/ML Engineer | Full-Stack Developer | Founder @Abyss Studios
 
