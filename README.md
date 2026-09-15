@@ -183,6 +183,18 @@ Currently focused on improving **algorithmic problem solving and competitive pro
 
 ---
 
+## LeetCode Stats
+
+<div align="center">
+
+<a href="https://leetcode.com/u/motavirus/">
+<img src="https://leetcard.jacoblin.cool/motavirus?theme=dark&font=Karla&ext=heatmap" alt="motavirus's LeetCode stats"/>
+</a>
+
+</div>
+
+---
+
 ## Connect
 
 <p align="center">
