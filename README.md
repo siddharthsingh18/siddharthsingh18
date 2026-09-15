@@ -1,138 +1,190 @@
-<div align="center">
+# Hi, I'm Siddharth Singh 👋
 
-<img src="https://raw.githubusercontent.com/siddharthsingh18/siddharthsingh18/main/profile.jpg" alt="Siddharth Singh" width="200" style="border-radius: 50%; border: 3px solid #9F7AEA; margin: 20px 0;">
+### B.Tech CSE (AI/ML) Student | C++ & DSA | Machine Learning | Backend Development
 
-# Siddharth Singh  
-### AI/ML Engineer | Full-Stack Developer | Founder @Abyss Studios
+I'm a **2nd-year B.Tech Computer Science student specializing in AI/ML**, focused on building strong foundations in **Data Structures & Algorithms, Machine Learning, and Software Development**.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9F7AEA&center=true&width=500&lines=Building+Intelligent+Solutions;AI%2FML+%2B+Full-Stack+Development;Competitive+Programmer;Open+Source+Enthusiast" alt="Typing SVG" />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-singh-572b84319/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthsingh23122005@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://siddharth-singh-portfolio.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddharthsingh18)
-
-</div>
+I enjoy turning concepts into practical projects — from ML prediction systems and computer vision to backend APIs and real-world applications.
 
 ---
 
 ## 🚀 About Me
 
-I'm a **B.Tech Computer Science** student at **Bennett University** with a passion for building intelligent solutions using **AI/ML** and **full-stack development**. I combine algorithms, data science, and modern web technologies to create impactful projects.
-
-- 🎯 **Current Focus:** AI Agents, RAG Pipelines, LLMs, and Production ML Systems
-- 🏆 **Achievement:** Top 10% academic standing | 200+ DSA problems solved | 250K+ content views
-- 💼 **Experience:** Content Creator, Chief Marketing Officer @Abyss Studios, Social Media Team Lead
-- 🔗 **Open to:** Internships, Freelance Projects, Full-Time Opportunities
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddharthsingh18&theme=radical&show_icons=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthsingh18&theme=radical&layout=compact)
-
-</div>
+* 🎓 B.Tech CSE — **Artificial Intelligence & Machine Learning**
+* 💻 Strong focus on **C++ & Data Structures and Algorithms**
+* 🤖 Exploring **Machine Learning, Deep Learning & NLP**
+* 🌐 Building applications with **Python, Flask, React & Node.js**
+* 🗄️ Working with **MySQL & MongoDB**
+* 🛠️ Using **Git, GitHub, Docker, TensorFlow & OpenCV**
+* 📚 Currently improving my **DSA + ML + Software Engineering** fundamentals
+* 🎯 Preparing for **Software Engineering / AI-ML Internships**
 
 ---
 
-## 💡 Featured Projects
+## 🧠 Technical Skills
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **InsureAI** | NLP-powered insurance analyzer using LangChain RAG pipelines | Python, NLP, LangChain, OpenAI |
-| **Smart Demand Forecasting** | ML supply chain prediction dashboard with real-time updates | Python, Scikit-learn, FastAPI |
-| **Runoff Forecasting** | Water runoff prediction for environmental planning | TensorFlow, Pandas, Preprocessing |
-| **Palgreen** | Carbon & water footprint monitoring system | React, Node.js, MongoDB |
-| **Portfolio** | Interactive space-themed portfolio site | Next.js, React, Tailwind CSS |
+### Languages
+
+`C++` `Python` `Java` `JavaScript`
+
+### Data Structures & Algorithms
+
+`Arrays` `Strings` `Linked Lists` `Stacks` `Queues` `Trees` `Graphs` `Hashing` `Recursion` `Dynamic Programming` `Greedy` `Binary Search` `Sorting`
+
+### AI / Machine Learning
+
+`Machine Learning` `Deep Learning` `NLP` `Computer Vision` `Scikit-learn` `TensorFlow` `Keras`
+
+### Frameworks & Development
+
+`React.js` `Node.js` `Flask` `Spring Boot` `REST APIs`
+
+### Databases
+
+`MySQL` `MongoDB`
+
+### Tools
+
+`Git` `GitHub` `Docker` `Jupyter` `VS Code`
+
+### Libraries
+
+`NumPy` `Pandas` `Matplotlib` `OpenCV`
+
+---
+
+## 🔥 Featured Projects
+
+### 🌊 AI-Driven Runoff Prediction
+
+Machine learning system for **river discharge prediction and flood forecasting** using historical hydrological and climate data.
+
+**Tech:** `Python` `Pandas` `Scikit-learn` `Random Forest` `LSTM` `FastAPI` `Streamlit`
+
+* Feature engineering using lag and rolling-window features
+* Compared traditional ML with deep learning
+* Built prediction APIs using FastAPI
+* Developed an interactive Streamlit dashboard
+* Designed for multi-step discharge forecasting
+
+---
+
+### ♻️ AI-Powered E-Waste Management
+
+An offline-first platform designed to connect **informal e-waste collectors with authorized recyclers**.
+
+**Tech:** `Python` `AI/ML` `TFLite` `Bhashini API` `Spatial Matching`
+
+* Image-based e-waste identification and pricing
+* On-device AI for offline environments
+* Voice-assisted interaction for accessibility
+* Localized collector–recycler matching
+* Designed around low-connectivity environments
+
+---
+
+### 🌱 PalGreen — Carbon & Water Footprint Platform
+
+A sustainability-focused application for estimating **carbon and water footprints** and presenting environmental insights.
+
+**Tech:** `React` `Flask` `MongoDB` `Python` `Machine Learning`
+
+* Interactive footprint calculations
+* Backend REST APIs
+* Database-driven user data
+* Designed for future ML-based recommendations
+
+---
+
+## 📊 DSA & Problem Solving
+
+Currently strengthening my problem-solving skills through:
+
+* Arrays & Strings
+* Two Pointers & Sliding Window
+* Stack & Queue
+* Linked Lists
+* Binary Search
+* Trees & BST
+* Graph Algorithms
+* Greedy Algorithms
+* Dynamic Programming
+* Recursion & Backtracking
+
+I focus on understanding **time complexity, space complexity, edge cases, and optimized solutions** rather than just solving problems.
+
+---
+
+## 🤖 Currently Learning
+
+```text
+Advanced DSA
+        ↓
+Machine Learning
+        ↓
+Deep Learning
+        ↓
+NLP & Transformers
+        ↓
+Computer Vision
+        ↓
+MLOps & Model Deployment
+```
+
+I'm particularly interested in learning how to take ML models from **experimentation → deployment → production**.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharthsingh18&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthsingh18&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Problem Solving
+
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.codechef.com/">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-### **AI/ML & Data Science**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3144?style=flat-square)
-
-### **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-
-### **Backend & Databases**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs,flask,spring,mongodb,mysql,tensorflow,docker,git,github,opencv,vscode" />
+</p>
 
 ---
 
-## 📈 Key Metrics
+## 🎯 2026 Goals
 
-- ✅ **200+** DSA Problems Solved
-- 🏆 **Top 10%** Academic Standing at Bennett University
-- 💬 **250K+** Content Views (YouTube, Instagram, TikTok)
-- 🎓 **8** Professional Certifications
-- 🚀 **4** Featured AI/ML Projects
-- 💼 **4** Leadership & Professional Experiences
-
----
-
-## 📚 Learning & Certifications
-
-- Data Structures and Algorithms
-- Entrepreneurship Strategy (Ideation to Exit)
-- Automation Testing & Test Design Techniques
-- Microprocessors & Operating Systems Fundamentals
-- Computer Networking (Bits and Bytes)
+* [ ] Strengthen **DSA with C++**
+* [ ] Solve more algorithmic problems consistently
+* [ ] Build production-quality **AI/ML projects**
+* [ ] Learn **MLOps & cloud deployment**
+* [ ] Contribute to **open-source projects**
+* [ ] Secure an **AI/ML or Software Engineering internship**
 
 ---
 
-## 🎯 Current Goals
+## 🤝 Let's Connect
 
-- 🔍 Deepen expertise in **LLM-based AI agents** and production systems
-- 📈 Build scalable full-stack applications with modern tech stacks
-- 🌱 Contribute to **open-source AI/ML** projects
-- 🚀 Launch startup projects in **sustainability tech** and **edtech**
+I'm interested in **AI/ML, software engineering, DSA, open source, and collaborative projects**.
 
----
-
-## 📫 Let's Connect
-
-I'm always interested in talking about **AI/ML**, **full-stack development**, **startups**, or just **tech in general**.
-
-- 📧 Email: [siddharthsingh23122005@gmail.com](mailto:siddharthsingh23122005@gmail.com)
-- 📱 Phone: [+91 87553 66061](tel:+918755366061)
-- 💼 LinkedIn: [linkedin.com/in/siddharth-singh-572b84319/](https://www.linkedin.com/in/siddharth-singh-572b84319/)
-- 🌐 Portfolio: [siddharth-singh-portfolio.vercel.app](https://siddharth-singh-portfolio.vercel.app)
+<a href="https://github.com/siddharthsingh18">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
-<div align="center">
+### 💡 Build. Break. Learn. Repeat.
 
-**Made with ❤️ by Siddharth Singh**
-
-![Views](https://komarev.com/ghpvc/?username=siddharthsingh18&color=blueviolet)
-
-</div>
+⭐ Feel free to explore my repositories and follow my journey in **AI/ML & Software Engineering**.
