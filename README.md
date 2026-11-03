@@ -1,29 +1,26 @@
 
 <div align="center">
 
-<!-- ═══════════════════════ HERO HEADER ═══════════════════════ -->
+<!-- ═══════════════════════ ANIMATED HERO ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,25:111C44,55:312E81,80:155E9A,100:00C2FF&text=SIDDHARTH&fontSize=68&fontColor=FFFFFF&fontAlignY=37&desc=SOFTWARE%20ENGINEER%20%7C%20AI%2FML%20DEVELOPER%20%7C%20PROBLEM%20SOLVER&descAlignY=57&descSize=15&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,25:111C44,55:312E81,80:155E9A,100:00C2FF&text=SIDDHARTH&fontSize=68&fontColor=FFFFFF&fontAlignY=37&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST%20%7C%20PROBLEM%20SOLVER&descAlignY=57&descSize=15&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=800&color=00C2FF&center=true&vCenter=true&width=850&lines=Building+Ideas+Into+Intelligent+Solutions;Artificial+Intelligence+%26+Machine+Learning;Competitive+Programming+%7C+DSA+%7C+C%2B%2B;Full+Stack+Development+%7C+Computer+Vision;Turning+Complex+Problems+Into+Clean+Code;Always+Learning.+Always+Building.+Always+Improving." alt="Typing SVG" />
 
 <br/>
 
-<a href="https://github.com/siddharthsingh18">
 <img src="https://komarev.com/ghpvc/?username=siddharthsingh18&label=PROFILE+VIEWS&color=00C2FF&style=for-the-badge" />
-</a>
-<a href="https://github.com/siddharthsingh18?tab=followers">
+
 <img src="https://img.shields.io/github/followers/siddharthsingh18?label=FOLLOWERS&style=for-the-badge&color=7B61FF&logo=github" />
-</a>
-<a href="https://github.com/siddharthsingh18?tab=repositories">
+
 <img src="https://img.shields.io/badge/OPEN%20SOURCE-EXPLORING-00D9A6?style=for-the-badge&logo=github" />
-</a>
 
 <br/><br/>
 
 <a href="https://github.com/siddharthsingh18">
 <img src="https://img.shields.io/badge/GitHub-siddharthsingh18-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://leetcode.com/u/motavirus/">
 <img src="https://img.shields.io/badge/LeetCode-motavirus-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
@@ -31,8 +28,6 @@
 </div>
 
 ---
-
-<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 
 ## ⚡ ABOUT ME
 
@@ -124,7 +119,7 @@ philosophy: "Consistency compounds."
 ### 01 — EvalRAG
 **RAG Strategy Comparison & Evaluation Platform**
 
-An evaluation-focused platform for comparing Retrieval-Augmented Generation strategies and understanding their performance.
+An evaluation-focused platform for comparing Retrieval-Augmented Generation strategies.
 
 - 🔍 Compare different retrieval strategies.
 - 🧠 Evaluate RAG-based response quality.
@@ -183,8 +178,6 @@ An AI-powered platform designed to make insurance policies easier to understand.
 
 **Runoff Prediction for Flood Forecasting and Climate Resilience**
 
-A predictive ML project focused on understanding runoff patterns and supporting flood forecasting.
-
 - 🌧️ Rainfall and weather-related input analysis.
 - 📈 Predictive runoff modeling.
 - 🌍 Climate resilience and flood-risk insights.
@@ -225,9 +218,25 @@ A sustainability-focused application for understanding environmental impact.
 
 ---
 
-## 📊 GITHUB INTELLIGENCE DASHBOARD
+# 📊 GITHUB INTELLIGENCE DASHBOARD
 
 <div align="center">
+
+<!-- ALL-TIME CONTRIBUTION MILESTONE -->
+
+<img src="https://img.shields.io/badge/ALL--TIME%20CONTRIBUTIONS-1%2C301-00C2FF?style=for-the-badge&logo=github&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=0:050816,50:111C44,100:312E81&text=1%2C301%2B&fontSize=55&fontColor=00C2FF&fontAlignY=45&desc=TOTAL%20GITHUB%20CONTRIBUTIONS&descSize=14&descAlignY=75" width="85%" />
+
+<br/>
+
+<sub>Building consistently • Learning continuously • Improving every day</sub>
+
+<br/><br/>
+
+<!-- GITHUB STATS -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=siddharthsingh18&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&hide_border=true&bg_color=050816&title_color=00C2FF&icon_color=7B61FF&text_color=FFFFFF&number_format=long" width="49%" alt="GitHub all-time statistics" />
 
@@ -235,11 +244,11 @@ A sustainability-focused application for understanding environmental impact.
 
 <br/><br/>
 
-<!-- ALL-TIME CONTRIBUTION ANALYTICS -->
+<!-- PROFILE SUMMARY -->
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddharthsingh18&theme=github_dark" width="98%" alt="GitHub contribution profile summary" />
 
-<br/>
+<br/><br/>
 
 <!-- CONTRIBUTION STREAK -->
 
@@ -247,7 +256,7 @@ A sustainability-focused application for understanding environmental impact.
 
 <br/><br/>
 
-<!-- EXTENDED ANALYTICS -->
+<!-- PR AND REVIEW ANALYTICS -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=siddharthsingh18&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&bg_color=050816&title_color=00C2FF&text_color=FFFFFF" width="90%" alt="GitHub pull request and review statistics" />
 
@@ -261,7 +270,7 @@ A sustainability-focused application for understanding environmental impact.
 
 </div>
 
-> **Analytics note:** `include_all_commits=true` expands the commit history counted by the GitHub stats card. The contribution profile summary and streak card provide additional historical context. Third-party services have their own data limits, caching and availability; private repository metrics are not guaranteed simply by enabling `count_private=true`.
+> **Analytics note:** The 1,301 contribution milestone is manually displayed. Update it as your total changes. `include_all_commits=true` expands the commit history counted by the GitHub stats card. Other third-party services have their own data limits, caching and availability. Private repository metrics are not guaranteed simply by enabling `count_private=true`.
 
 ---
 
@@ -349,7 +358,7 @@ A sustainability-focused application for understanding environmental impact.
 
 ## 🤝 EXPERIENCE & COLLABORATION
 
-**Machine Learning & AI Intern — Lois Consultancy**
+### Machine Learning & AI Intern — Lois Consultancy
 
 <sub>June – July 2026</sub>
 
