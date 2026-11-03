@@ -1,4 +1,10 @@
-# SIDDHARTH SINGH — ENGINEERING PROFILE
+
+<!--
+  SIDDHARTH SINGH | GITHUB PROFILE README
+  GitHub: siddharthsingh18
+  LeetCode: motavirus
+  Replace YOUR-LINKEDIN-ID with your LinkedIn profile ID.
+-->
 
 <div align="center">
 
@@ -238,21 +244,52 @@ Currently exploring:
 
 ---
 
-## `06 / GITHUB ANALYTICS`
+## `06 / DEVELOPER INTELLIGENCE DASHBOARD`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=siddharthsingh18&show_icons=true&hide_border=true&bg_color=080B16&title_color=00C2FF&icon_color=00C2FF&text_color=E6EDF3&rank_icon=github"/>
+### PROFILE OVERVIEW
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthsingh18&layout=compact&hide_border=true&bg_color=080B16&title_color=00C2FF&text_color=E6EDF3"/>
-
-<br/><br/>
-
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthsingh18&hide_border=true&background=080B16&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF&sideLabels=E6EDF3&dates=8B949E"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddharthsingh18&theme=github_dark" width="98%" alt="GitHub Profile Summary"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharthsingh18&bg_color=080B16&color=00C2FF&line=00C2FF&point=FFFFFF&area=true&hide_border=true" width="98%"/>
+### GITHUB PERFORMANCE
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=siddharthsingh18&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=080B16&title_color=00C2FF&icon_color=00C2FF&text_color=E6EDF3&rank_icon=github" width="100%" alt="GitHub Stats"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthsingh18&layout=donut-vertical&langs_count=8&hide_border=true&bg_color=080B16&title_color=00C2FF&text_color=E6EDF3" width="100%" alt="Top Languages"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### CONTRIBUTION STREAK
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthsingh18&theme=transparent&hide_border=true&background=080B16&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF&sideLabels=E6EDF3&dates=8B949E" width="95%" alt="GitHub Streak"/>
+
+<br/><br/>
+
+### CONTRIBUTION ACTIVITY
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharthsingh18&bg_color=080B16&color=00C2FF&line=00C2FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="98%" alt="Contribution Activity Graph"/>
+
+<br/><br/>
+
+### GITHUB TROPHIES
+
+<img src="https://github-profile-trophy.vercel.app/?username=siddharthsingh18&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" width="98%" alt="GitHub Trophies"/>
+
+<br/><br/>
+
+### CONTRIBUTION SNAKE
+
+<img src="https://raw.githubusercontent.com/siddharthsingh18/siddharthsingh18/output/github-contribution-grid-snake.svg" width="98%" alt="GitHub Contribution Snake"/>
 
 </div>
 
